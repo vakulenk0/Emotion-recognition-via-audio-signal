@@ -1,0 +1,9 @@
+pandas
+crowd-kit
+click
+tqdm
+numpy
+librosa
+#Для pyAudioAnalysis
+eyeD3
+pydub
