@@ -1,4 +1,4 @@
-# Emotion-recognition-via-audio-signal
+# Определение эмоций по аудиосигналу
 
 <div id="header" align="center" magring: 30px>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
