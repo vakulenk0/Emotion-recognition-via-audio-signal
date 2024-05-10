@@ -1,6 +1,6 @@
 # Emotion-recognition-via-audio-signal
 
-<div id="audio-wave-gif" align="center" margin="10px">
+<div id="audio-wave-gif" align="center" margin="30px">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
